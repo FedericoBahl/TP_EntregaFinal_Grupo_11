@@ -10,8 +10,8 @@ Notebook de Google Collab (Se recominda usar Collab para correr el mismo desde c
 En el primer paso del código se encuentran las librerías que se necesitan importar para que funcione el mismo.
 
 
-En el segundo paso se encuentra el código para importar el dataset correspondiente al TP desde la página de Kaggle. Al ser un Dataset público no hay problemas
-de confidencialidad de los datos.
+En el segundo paso se encuentra el código para importar el dataset llamado "Customer-Churn-Records.csv" correspondiente al TP desde la página de Kaggle. 
+Al ser un Dataset público no hay problemas de confidencialidad de los datos.
 
 
 Una vez ejecutados esos dos comandos se podrá ejecutar el resto del código donde se encuentra el EDA y el entrenamiento de los modelos seleccionados detallados
