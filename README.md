@@ -3,7 +3,7 @@ Entrega del TP final de la Diplomatura en Ciencia de Datos de la UTN - Marzo 202
 
 # Ejecución del código
 
-El código del trabajo consiste en un archivo .ipynb diseñado en un Notebook de Google Collab (Se recominda usar Collab para correr el mismo en cualquier PC)
+El código del trabajo consiste en un archivo .ipynb diseñado en un Notebook de Google Collab (Se recominda usar Collab para correr el mismo en cualquier PC)./
 En el primer paso del código se encuentran las librerías necesarias de importar para que funcione el mismo.
 En el segundo paso se encuentra el código para importar el dataset correspondiente al TP desde la página de Kaggle. Al ser un Dataset público no hay problemas
 de confidencialidad de los datos.
