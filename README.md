@@ -3,7 +3,7 @@ Entrega del TP final de la Diplomatura en Ciencia de Datos de la UTN - Marzo 202
 
 # 💻 Ejecución del código
 
-El código del trabajo consiste en un archivo .ipynb llamado "TP_EntregaFinal_Grupo_11" dentro de la carpeta con e mismo nombre diseñado en un 
+El código del trabajo consiste en un archivo .ipynb llamado "TP_EntregaFinal_Grupo_11" dentro de la carpeta con el mismo nombre diseñado en un 
 Notebook de Google Collab (Se recominda usar Collab para correr el mismo desde cualquier PC).
 
 
